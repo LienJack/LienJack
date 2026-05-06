@@ -1,13 +1,11 @@
 # Hi there, I'm Lien Jack
 
 <div align="center">
-  <img src="./assets/header-banner.svg" alt="Lien Jack header banner" width="100%" />
+  <img src="./assets/header-banner.png" alt="Lien Jack header banner" width="100%" />
 
   <p>
     <a href="./README.md">English</a> · <a href="./README_ZH.md"><strong>简体中文</strong></a> · <a href="./README_JA.md">日本語</a>
   </p>
-
-  <img src="./assets/mascot.png" alt="mascot" width="220" />
 
   <h3>在东京远程工作的全栈开发者 / Agent Builder</h3>
   <p>前网易 / 字节跳动 / Ethereum Community Fund，参与过 Lark、CapCut、轻颜等产品的工程建设</p>
@@ -45,7 +43,7 @@
 
 <div align="center">
   <a href="https://blog.lienjack.com/blog/AI/3.ClaudeCode%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90">
-    <img src="./assets/blog-feature-card.svg" alt="Claude Code 源码解析" width="100%" />
+    <img src="./assets/blog-feature-card.png" alt="Claude Code 源码解析" width="100%" />
   </a>
 </div>
 
@@ -55,48 +53,85 @@
   <a href="https://blog.lienjack.com/">访问博客</a>
 </p>
 
-## 技能树
-
-> 按你现在给的信息，先收成一版更贴近真实的技术画像。
-
-### 前端
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nestjs" />
-</p>
-
-`TypeScript` / `JavaScript` / `React` / `Next.js` / `Vue` / `NestJS`
-
-### 后端
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,go,nestjs" />
-</p>
-
-`Node.js` / `Go` / `NestJS`
-
-### 数据库 / 基础设施
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,docker" />
-</p>
-
-`MySQL` / `PostgreSQL` / `Redis` / `MongoDB` / `Docker`
-
-## GitHub 数据面板
+## 能力地图
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LienJack&theme=tokyonight" alt="GitHub profile summary" />
+  <sub>不是把会的东西全摊开，而是把我真正高频交付的三条技术主线摆出来。</sub>
 </div>
 
-<div align="center">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LienJack&theme=tokyonight" alt="Repos per language" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LienJack&theme=tokyonight" alt="Most commit language" />
-</div>
+<br />
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>前端体验</h3>
+      <p>偏产品表达、交互节奏，以及可长期维护的 UI 系统。</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue&perline=5" alt="Frontend stack" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/产品界面-2563eb?style=flat-square" alt="产品界面" />
+        <img src="https://img.shields.io/badge/设计系统-0f766e?style=flat-square" alt="设计系统" />
+        <img src="https://img.shields.io/badge/交互表达-7c3aed?style=flat-square" alt="交互表达" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>后端系统</h3>
+      <p>偏 API、Agent workflow，以及支撑快速迭代的服务层。</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nodejs,go,nestjs&perline=3" alt="Backend stack" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/API_设计-16a34a?style=flat-square" alt="API 设计" />
+        <img src="https://img.shields.io/badge/自动化流程-0891b2?style=flat-square" alt="自动化流程" />
+        <img src="https://img.shields.io/badge/服务架构-ef4444?style=flat-square" alt="服务架构" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>数据 / 基础设施</h3>
+      <p>偏存储、缓存、容器化，以及稳定上线所需的基础能力。</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,docker&perline=5" alt="Database and infra stack" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/SQL-1d4ed8?style=flat-square" alt="SQL" />
+        <img src="https://img.shields.io/badge/缓存-d97706?style=flat-square" alt="缓存" />
+        <img src="https://img.shields.io/badge/容器化-0f172a?style=flat-square" alt="容器化" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  我通常会把这三条线一起打通，而不是把它们拆成前后端分工后的交接点。
+</p>
+
+## 开发信号
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LienJack&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <sub>这里不是单纯贴统计图，而是补一眼我最近在写什么、怎么写、精力落在哪。</sub>
 </div>
+
+<br />
+
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LienJack&theme=tokyonight" alt="GitHub profile summary" />
+    </td>
+    <td width="38%" valign="top">
+      <img width="100%" src="https://streak-stats.demolab.com?user=LienJack&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LienJack&theme=tokyonight" alt="Repos per language" />
+    </td>
+    <td valign="top">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LienJack&theme=tokyonight" alt="Most commit language" />
+    </td>
+  </tr>
+</table>
 
 ## 当前关注
 

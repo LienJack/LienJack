@@ -1,13 +1,11 @@
 # Hi there, I'm Lien Jack
 
 <div align="center">
-  <img src="./assets/header-banner.svg" alt="Lien Jack header banner" width="100%" />
+  <img src="./assets/header-banner.png" alt="Lien Jack header banner" width="100%" />
 
   <p>
     <a href="./README.md"><strong>English</strong></a> · <a href="./README_ZH.md">简体中文</a> · <a href="./README_JA.md">日本語</a>
   </p>
-
-  <img src="./assets/mascot.png" alt="mascot" width="220" />
 
   <h3>Full Stack Engineer / Agent Builder based in Tokyo</h3>
   <p>Former NetEase / ByteDance / Ethereum Community Fund, with product engineering experience across Lark, CapCut, and Ulike</p>
@@ -45,7 +43,7 @@ One post I especially recommend if you're interested in coding agents and tool-d
 
 <div align="center">
   <a href="https://blog.lienjack.com/blog/AI/3.ClaudeCode%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90">
-    <img src="./assets/blog-feature-card.svg" alt="Claude Code Source Walkthrough" width="100%" />
+    <img src="./assets/blog-feature-card.png" alt="Claude Code Source Walkthrough" width="100%" />
   </a>
 </div>
 
@@ -55,48 +53,85 @@ One post I especially recommend if you're interested in coding agents and tool-d
   <a href="https://blog.lienjack.com/">Visit the blog</a>
 </p>
 
-## Skill Tree
-
-> This version is trimmed to reflect the stack you actually want to highlight right now.
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nestjs" />
-</p>
-
-`TypeScript` / `JavaScript` / `React` / `Next.js` / `Vue` / `NestJS`
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,go,nestjs" />
-</p>
-
-`Node.js` / `Go` / `NestJS`
-
-### Database / Infra
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,docker" />
-</p>
-
-`MySQL` / `PostgreSQL` / `Redis` / `MongoDB` / `Docker`
-
-## GitHub Dashboard
+## Capability Map
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LienJack&theme=tokyonight" alt="GitHub profile summary" />
+  <sub>Not a giant laundry list, just the three lanes I use most when shipping product end to end.</sub>
 </div>
 
-<div align="center">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LienJack&theme=tokyonight" alt="Repos per language" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LienJack&theme=tokyonight" alt="Most commit language" />
-</div>
+<br />
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Frontend Craft</h3>
+      <p>Polished product UI, interaction rhythm, and maintainable interface systems.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue&perline=5" alt="Frontend stack" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Product_UI-2563eb?style=flat-square" alt="Product UI" />
+        <img src="https://img.shields.io/badge/Design_Systems-0f766e?style=flat-square" alt="Design Systems" />
+        <img src="https://img.shields.io/badge/Interaction-7c3aed?style=flat-square" alt="Interaction" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Backend Logic</h3>
+      <p>API layers, agent workflows, and services built to keep iteration fast and clean.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nodejs,go,nestjs&perline=3" alt="Backend stack" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/API_Design-16a34a?style=flat-square" alt="API Design" />
+        <img src="https://img.shields.io/badge/Automation-0891b2?style=flat-square" alt="Automation" />
+        <img src="https://img.shields.io/badge/Service_Architecture-ef4444?style=flat-square" alt="Service Architecture" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Data & Infra</h3>
+      <p>Storage, caching, containers, and the foundations that make systems durable in practice.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,docker&perline=5" alt="Database and infra stack" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/SQL-1d4ed8?style=flat-square" alt="SQL" />
+        <img src="https://img.shields.io/badge/Caching-d97706?style=flat-square" alt="Caching" />
+        <img src="https://img.shields.io/badge/Containers-0f172a?style=flat-square" alt="Containers" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  I usually work across all three lanes rather than treating them as separate handoff steps.
+</p>
+
+## Development Signals
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LienJack&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <sub>A quick read on how I build: what I touch most, how I commit, and where the energy goes.</sub>
 </div>
+
+<br />
+
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LienJack&theme=tokyonight" alt="GitHub profile summary" />
+    </td>
+    <td width="38%" valign="top">
+      <img width="100%" src="https://streak-stats.demolab.com?user=LienJack&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LienJack&theme=tokyonight" alt="Repos per language" />
+    </td>
+    <td valign="top">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LienJack&theme=tokyonight" alt="Most commit language" />
+    </td>
+  </tr>
+</table>
 
 ## Current Focus
 
