@@ -106,33 +106,6 @@ Coding Agent やツール呼び出し、ワークフロー設計に興味があ�
   普段はこの 3 つを分業前提で切り分けるより、まとめてつなぎながら作ることが多いです。
 </p>
 
-## Development Signals
-
-<div align="center">
-  <sub>どの技術に触れているか、どんなペースで作っているかをざっくり伝えるためのセクションです。</sub>
-</div>
-
-<br />
-
-<table>
-  <tr>
-    <td width="62%" valign="top">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LienJack&theme=tokyonight" alt="GitHub profile summary" />
-    </td>
-    <td width="38%" valign="top">
-      <img width="100%" src="https://streak-stats.demolab.com?user=LienJack&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LienJack&theme=tokyonight" alt="Repos per language" />
-    </td>
-    <td valign="top">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LienJack&theme=tokyonight" alt="Most commit language" />
-    </td>
-  </tr>
-</table>
-
 ## 今、注力していること
 
 - Agent 関連開発とワークフロー設計
@@ -140,9 +113,3 @@ Coding Agent やツール呼び出し、ワークフロー設計に興味があ�
 - 安定して拡張しやすいフロントエンド / バックエンド設計
 - 開発効率と開発者体験の改善
 - 実践的な AI ネイティブ開発フローの探求
-
-## コントリビューション
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/LienJack/LienJack/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>

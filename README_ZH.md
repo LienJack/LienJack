@@ -106,33 +106,6 @@
   我通常会把这三条线一起打通，而不是把它们拆成前后端分工后的交接点。
 </p>
 
-## 开发信号
-
-<div align="center">
-  <sub>这里不是单纯贴统计图，而是补一眼我最近在写什么、怎么写、精力落在哪。</sub>
-</div>
-
-<br />
-
-<table>
-  <tr>
-    <td width="62%" valign="top">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LienJack&theme=tokyonight" alt="GitHub profile summary" />
-    </td>
-    <td width="38%" valign="top">
-      <img width="100%" src="https://streak-stats.demolab.com?user=LienJack&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LienJack&theme=tokyonight" alt="Repos per language" />
-    </td>
-    <td valign="top">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LienJack&theme=tokyonight" alt="Most commit language" />
-    </td>
-  </tr>
-</table>
-
 ## 当前关注
 
 - Agent 相关开发与工作流设计
@@ -140,9 +113,3 @@
 - 设计稳定、清晰、可扩展的前后端系统
 - 提升团队工程效率与开发者体验
 - 探索 AI 在真实研发流程里的落地方式
-
-## 提交轨迹
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/LienJack/LienJack/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>

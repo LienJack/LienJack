@@ -106,33 +106,6 @@ One post I especially recommend if you're interested in coding agents and tool-d
   I usually work across all three lanes rather than treating them as separate handoff steps.
 </p>
 
-## Development Signals
-
-<div align="center">
-  <sub>A quick read on how I build: what I touch most, how I commit, and where the energy goes.</sub>
-</div>
-
-<br />
-
-<table>
-  <tr>
-    <td width="62%" valign="top">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LienJack&theme=tokyonight" alt="GitHub profile summary" />
-    </td>
-    <td width="38%" valign="top">
-      <img width="100%" src="https://streak-stats.demolab.com?user=LienJack&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LienJack&theme=tokyonight" alt="Repos per language" />
-    </td>
-    <td valign="top">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LienJack&theme=tokyonight" alt="Most commit language" />
-    </td>
-  </tr>
-</table>
-
 ## Current Focus
 
 - Designing practical agent workflows and developer tooling
@@ -140,9 +113,3 @@ One post I especially recommend if you're interested in coding agents and tool-d
 - Building stable, extensible frontend and backend systems
 - Improving engineering productivity and developer experience
 - Exploring real-world AI-native development patterns
-
-## Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/LienJack/LienJack/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
