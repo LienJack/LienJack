@@ -86,8 +86,12 @@
 ## GitHub 数据面板
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LienJack&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LienJack&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LienJack&theme=tokyonight" alt="GitHub profile summary" />
+</div>
+
+<div align="center">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LienJack&theme=tokyonight" alt="Repos per language" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LienJack&theme=tokyonight" alt="Most commit language" />
 </div>
 
 <div align="center">
