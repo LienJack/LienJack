@@ -1,0 +1,42 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardBg" x1="60" y1="20" x2="1140" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#141125"/>
+      <stop offset="0.52" stop-color="#261A46"/>
+      <stop offset="1" stop-color="#10243A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="720" y1="42" x2="1036" y2="270" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F472B6"/>
+      <stop offset="0.5" stop-color="#A855F7"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" rx="28" fill="url(#cardBg)"/>
+  <circle cx="1060" cy="78" r="62" fill="#F472B6" fill-opacity="0.12"/>
+  <circle cx="1122" cy="220" r="94" fill="#38BDF8" fill-opacity="0.12"/>
+  <circle cx="916" cy="250" r="72" fill="#A855F7" fill-opacity="0.12"/>
+
+  <rect x="58" y="54" width="150" height="34" rx="17" fill="#F472B6"/>
+  <text x="85" y="77" fill="#FFFFFF" font-size="18" font-family="'Trebuchet MS', 'Avenir Next', sans-serif" font-weight="700">FEATURED POST</text>
+
+  <text x="58" y="146" fill="#FFFFFF" font-size="48" font-family="'Arial Black', 'Trebuchet MS', sans-serif">Claude Code 源码解析</text>
+  <text x="60" y="190" fill="#D8D4F8" font-size="23" font-family="'Trebuchet MS', 'Avenir Next', sans-serif">从架构、工具调用到 Agent 工作流，拆解 Claude Code 的核心设计</text>
+  <text x="60" y="236" fill="#A5B4FC" font-size="20" font-family="'Trebuchet MS', 'Avenir Next', sans-serif">AI / Coding Agent / Reverse Engineering / Workflow</text>
+
+  <rect x="60" y="258" width="188" height="40" rx="20" fill="#FFFFFF"/>
+  <text x="97" y="284" fill="#1F1636" font-size="20" font-family="'Trebuchet MS', 'Avenir Next', sans-serif" font-weight="700">Read the article</text>
+
+  <g>
+    <rect x="756" y="46" width="374" height="230" rx="24" fill="url(#accent)"/>
+    <rect x="778" y="68" width="330" height="186" rx="18" fill="#0F1020"/>
+    <circle cx="800" cy="92" r="5" fill="#FDA4AF"/>
+    <circle cx="818" cy="92" r="5" fill="#FDE68A"/>
+    <circle cx="836" cy="92" r="5" fill="#86EFAC"/>
+    <text x="804" y="128" fill="#F9A8D4" font-size="18" font-family="'SFMono-Regular', Consolas, monospace">class ClaudeCodeAnalyzer &#123;</text>
+    <text x="824" y="156" fill="#93C5FD" font-size="18" font-family="'SFMono-Regular', Consolas, monospace">inspectArchitecture()</text>
+    <text x="824" y="182" fill="#C4B5FD" font-size="18" font-family="'SFMono-Regular', Consolas, monospace">traceToolCalls()</text>
+    <text x="824" y="208" fill="#F9A8D4" font-size="18" font-family="'SFMono-Regular', Consolas, monospace">mapAgentWorkflow()</text>
+    <text x="804" y="234" fill="#F9A8D4" font-size="18" font-family="'SFMono-Regular', Consolas, monospace">&#125;</text>
+  </g>
+</svg>

@@ -1,0 +1,69 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="120" y1="40" x2="1140" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFE4F1"/>
+      <stop offset="0.5" stop-color="#E7DCFF"/>
+      <stop offset="1" stop-color="#DDF2FF"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="820" y1="82" x2="1120" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <linearGradient id="title" x1="128" y1="96" x2="660" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FB7185"/>
+      <stop offset="0.55" stop-color="#A855F7"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="1 0 0 0 0.95 0 1 0 0 0.65 0 0 1 0 0.98 0 0 0 0.9 0"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="420" rx="34" fill="url(#bg)"/>
+  <circle cx="180" cy="98" r="72" fill="#FFFFFF" fill-opacity="0.38"/>
+  <circle cx="1130" cy="84" r="58" fill="#FFFFFF" fill-opacity="0.32"/>
+  <circle cx="1048" cy="346" r="74" fill="#C4B5FD" fill-opacity="0.22"/>
+  <circle cx="210" cy="332" r="94" fill="#FDB4D0" fill-opacity="0.2"/>
+  <path d="M1038 122C1090 88 1136 110 1158 152C1178 190 1166 236 1118 268C1070 300 996 296 948 254C896 210 896 162 946 136C972 122 1004 120 1038 122Z" fill="#FFFFFF" fill-opacity="0.42"/>
+  <path d="M82 126C112 96 154 94 184 118C212 140 214 178 192 204C170 232 128 240 96 222C62 204 54 154 82 126Z" fill="#FFFFFF" fill-opacity="0.3"/>
+
+  <g opacity="0.85">
+    <path d="M103 264L111 280L128 283L116 295L119 312L103 304L87 312L90 295L78 283L95 280L103 264Z" fill="#FFD76A"/>
+    <path d="M1194 152L1200 164L1214 166L1204 176L1206 190L1194 183L1181 190L1184 176L1173 166L1187 164L1194 152Z" fill="#FFD76A"/>
+    <circle cx="1108" cy="118" r="8" fill="#F472B6"/>
+    <circle cx="1140" cy="146" r="5" fill="#A78BFA"/>
+    <circle cx="154" cy="110" r="7" fill="#60A5FA"/>
+    <circle cx="206" cy="138" r="5" fill="#F472B6"/>
+  </g>
+
+  <g fill="#F9A8D4" opacity="0.88">
+    <path d="M946 78C956 68 972 69 979 80C986 91 981 105 970 113C959 121 945 122 936 114C927 106 928 89 946 78Z"/>
+    <path d="M998 68C1004 58 1020 56 1029 65C1038 74 1038 90 1028 100C1018 110 1001 108 992 98C983 88 985 78 998 68Z"/>
+    <path d="M969 110C978 100 994 98 1003 107C1012 116 1010 132 999 141C988 150 972 150 964 141C955 132 957 120 969 110Z"/>
+  </g>
+
+  <text x="124" y="148" fill="#3B1D54" font-size="30" font-family="'Trebuchet MS', 'Avenir Next', sans-serif" letter-spacing="4">TOKYO BASED · FULL STACK · AGENT BUILDER</text>
+  <text x="120" y="242" fill="url(#title)" font-size="96" font-weight="800" font-family="'Arial Black', 'Trebuchet MS', sans-serif" letter-spacing="3">LIEN JACK</text>
+  <text x="125" y="292" fill="#5B376F" font-size="34" font-family="'Trebuchet MS', 'Avenir Next', sans-serif">写代码，也给产品留一点二次元的心动感</text>
+  <text x="126" y="334" fill="#6D4C7D" font-size="24" font-family="'Trebuchet MS', 'Avenir Next', sans-serif">Building AI agent workflows, beautiful interfaces, and durable systems.</text>
+  <text x="126" y="370" fill="#8B5CF6" font-size="22" font-family="'Trebuchet MS', 'Avenir Next', sans-serif">東京でリモート開発中</text>
+
+  <g filter="url(#glow)" opacity="0.28">
+    <rect x="798" y="82" width="344" height="232" rx="28" fill="#FFFFFF"/>
+  </g>
+  <g>
+    <rect x="820" y="92" width="332" height="220" rx="28" fill="url(#panel)"/>
+    <rect x="840" y="120" width="292" height="172" rx="22" fill="#13111F" fill-opacity="0.88"/>
+    <circle cx="858" cy="110" r="6" fill="#FCA5A5"/>
+    <circle cx="878" cy="110" r="6" fill="#FCD34D"/>
+    <circle cx="898" cy="110" r="6" fill="#86EFAC"/>
+    <text x="864" y="153" fill="#F5D0FE" font-size="19" font-family="'SFMono-Regular', Consolas, monospace">const profile = &#123;</text>
+    <text x="884" y="181" fill="#93C5FD" font-size="19" font-family="'SFMono-Regular', Consolas, monospace">focus: "AI Agents",</text>
+    <text x="884" y="209" fill="#F9A8D4" font-size="19" font-family="'SFMono-Regular', Consolas, monospace">blog: "blog.lienjack.com",</text>
+    <text x="884" y="237" fill="#C4B5FD" font-size="19" font-family="'SFMono-Regular', Consolas, monospace">mood: "anime x engineering"</text>
+    <text x="864" y="265" fill="#F5D0FE" font-size="19" font-family="'SFMono-Regular', Consolas, monospace">&#125;</text>
+    <path d="M1088 222C1100 208 1124 210 1132 226C1140 242 1130 262 1111 270C1092 278 1068 270 1060 254C1052 238 1064 220 1088 222Z" fill="#F9A8D4"/>
+    <path d="M1088 200C1095 191 1108 191 1115 200C1122 209 1120 223 1111 230C1102 237 1088 237 1081 228C1073 219 1075 208 1088 200Z" fill="#FDE68A"/>
+  </g>
+</svg>
